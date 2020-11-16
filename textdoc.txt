@@ -1,4 +1,4 @@
 
 branch 2
-this is new branch
-branch 1
+new branch created
+this is new branch 2
